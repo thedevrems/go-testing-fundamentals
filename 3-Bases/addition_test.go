@@ -14,7 +14,7 @@ import "testing"
 //   Si le test échoue, un message est généré indiquant la valeur attendue et la valeur obtenue.
 func TestAddition(t *testing.T) {
 	result := Addition(2, 3) // On appelle la fonction Addition avec 2 et 3 comme arguments.
-	expected := 5            // On définit le résultat attendu.
+	expected :=  5           // On définit le résultat attendu.
 
 	// On compare le résultat obtenu avec le résultat attendu.
 	if result != expected {
