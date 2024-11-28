@@ -5,4 +5,4 @@
 - Savoir écrire, exécuter et interpréter les tests unitaires en Go.
 - Apprendre les bonnes pratiques pour les tests unitaires en développement logiciel.
 
-[Suite du cours](avantages_des_tests.md)
+[Suite du cours](deftestunitaire.md)
